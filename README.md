@@ -1,12 +1,12 @@
 # DU-Project-1: Beer Analysis
-Collaborative repo for DU Analytics project 1 (2024)
+Collaborative repository for the first project for the spring 2024 cohort of the University of Denver Data Analytics & Visualization
 
 ## Summary:
 This repo contains the files related to an analysis of unique beers and their ratings on the popular social site BeerAdvocate.com.
 
 Details on the contents and references utilized are further below, but the core analysis can be found in the "beer_analysis" "Jupyter notebook and the initial cleaning of the data set and exploratory data analysis ("EDA") in the "beer_EDA_cleanup" notebook.
 
-A presentation was also created 
+A presentation was also created (based on the analysis) with the source images contained within the Outputs folder. This folder also contains the working data file for analysis that resulted from the cleaning process.
 
 ## Repo contents:
 - beer_analysis.ipynb
@@ -23,6 +23,8 @@ A presentation was also created
 ## Resources & References
 
 Dataset source URL: https://www.kaggle.com/datasets/ruthgn/beer-profile-and-ratings-data-set
+
+Ratings website from which dataset origniated: https://www.beeradvocate.com/
 
 Explanation of beer rating methodology in dataset:
     https://www.beeradvocate.com/community/threads/how-to-review-a-beer.241156/
