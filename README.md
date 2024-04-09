@@ -4,11 +4,11 @@ Collaborative repository for the first project for the spring 2024 cohort of the
 ## Summary:
 This repo contains the files related to an analysis of unique beers and their ratings on the popular social site BeerAdvocate.com.
 
-Details on the contents and references utilized are further below, but the core analysis can be found in the "beer_analysis" "Jupyter notebook and the initial cleaning of the data set and exploratory data analysis ("EDA") in the "beer_EDA_cleanup" notebook.
+Details on the contents and references utilized are further below, but the core analysis can be found in the "beer_analysis" Jupyter notebook and the initial cleaning of the data set and exploratory data analysis ("EDA") in the "beer_EDA_cleanup" notebook.
 
 A presentation was also created (based on the analysis and included herein as a PDF file). The chart source images contained within the Outputs folder. This folder also contains the working data file for analysis that resulted from the cleaning process.
 
-The Resources folder contains the original source dataset as well as a reference file for keywords counted in the middle columns of the set (which were not ultimately used in the analysis).
+The Resources folder contains the original source dataset as well as a reference file for keywords counted in the middle columns of the set (which were not ultimately used in the analysis, but this file is included for interest/reference).
 
 ## Repo contents:
 - beer_analysis.ipynb
